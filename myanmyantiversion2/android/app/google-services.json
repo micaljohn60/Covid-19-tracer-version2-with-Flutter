@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004136675514",
+    "firebase_url": "https://healthformyanmar-a7322.firebaseio.com",
+    "project_id": "healthformyanmar-a7322",
+    "storage_bucket": "healthformyanmar-a7322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004136675514:android:b0e377fddd1894daa72a83",
+        "android_client_info": {
+          "package_name": "com.hi.org.myanmyanti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004136675514-uohn9c9o8r7qnie0d8ed9rqlk5mjvpao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-lqSesSXrOvpPRngCEVh6RN1wN4pDUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004136675514-uohn9c9o8r7qnie0d8ed9rqlk5mjvpao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
